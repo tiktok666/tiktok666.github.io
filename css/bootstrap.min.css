@@ -8046,7 +8046,6 @@ button.close {
 }
 
 
-
 #goods-right {
     margin-left: 20px;
     align-self: center;
@@ -8054,6 +8053,10 @@ button.close {
 
 #mCenter {
     text-align: center
+}
+
+#mRight {
+    text-align: right
 }
 
 /*# sourceMappingURL=bootstrap.min.css.map */
